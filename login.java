@@ -1,6 +1,6 @@
 public class 
 {
-int i;
+int i=10;
 public static void main("hello world!")
 
 }
